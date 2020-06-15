@@ -1,8 +1,10 @@
 # oce-game-jam-two
 
-From Satery 10am AEST till The following Saterday 10pm AEST we will be using bits and peice of our spare time to build a game.
+From Satery 10am AEST till The following Sunday 10pm AEST we will be using bits and peice of our spare time to build a game.
 
 We Are planning to build a complete 3d multiplayer game.
+
+Most of us are really only doing a 48 hour game jam but have to spread it over the week due to other commitments :(.
 
 ## Required Software
 
