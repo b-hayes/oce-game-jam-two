@@ -5,7 +5,11 @@ From Satery 10am AEST till The following Saterday 10pm AEST we will be using bit
 We Are planning to build a complete 3d multiplayer game.
 
 ## Required Software
+<<<<<<< HEAD
 Download unreal Engine 4 (4.25.1)
+=======
+Download unreal Engine 4
+>>>>>>> 2e61ec53e9f412fbcf893333c6b9a883449a79da
 https://www.unrealengine.com/en-US/
 
 Download Git for windows OR Github Desktop.
