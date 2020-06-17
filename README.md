@@ -1,6 +1,6 @@
 # oce-game-jam-two
 
-From Satery 10am AEST till The following Sunday 10pm AEST we will be using bits and peice of our spare time to build a game.
+From 20th Satery 10am AEST tillthe 28th Sunday 10pm AEST we will be using bits and peice of our spare time to build a game.
 
 We Are planning to build a complete 3d multiplayer game.
 
