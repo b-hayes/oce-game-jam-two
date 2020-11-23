@@ -6,6 +6,9 @@ We Are planning to build a complete 3d multiplayer game.
 
 Most of us are really only doing a 48 hour game jam but have to spread it over the week due to other commitments :(.
 
+## here is a recording of a quick play test.
+https://youtu.be/g6cjm45_zLg
+
 ## Required Software
 
 Download unreal Engine 4 (4.25.1)
