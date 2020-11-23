@@ -11,8 +11,7 @@ https://youtu.be/g6cjm45_zLg
 
 ## Required Software
 
-Download unreal Engine 4 (4.25.1)
-=======
+### Download unreal Engine 4 (4.25.1)
 Download unreal Engine 4
 https://www.unrealengine.com/en-US/
 
@@ -23,7 +22,7 @@ https://desktop.github.com/
 Download Visual Studio Community
 https://visualstudio.microsoft.com/vs/community/
 
-## Trello Board.
+### Trello Board.
 
 https://trello.com/b/d5jXRvQm/oce-game-jam-two
 
