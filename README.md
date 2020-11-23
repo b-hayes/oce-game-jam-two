@@ -9,7 +9,9 @@ Most of us are really only doing a 48 hour game jam but have to spread it over t
 ## Here is a recording of a quick play test.
 https://youtu.be/g6cjm45_zLg
 
-## Required Software
+
+
+## Required Software for Development.
 
 ### Download unreal Engine 4 (4.25.1)
 Download unreal Engine 4
